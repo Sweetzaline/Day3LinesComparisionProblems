@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.exe
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.deps.json
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.dll
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.dll
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.pdb
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\obj\Debug\netcoreapp3.1\UCI.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day3LineComparision\UCI\UCI\bin\Debug\netcoreapp3.1\UCI.pdb
